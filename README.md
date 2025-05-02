@@ -1,1 +1,1 @@
-🎓 School Management System (EduTrack)
+#🎓 School Management System (EduTrack)
