@@ -4,6 +4,7 @@ A desktop-based Java application built with Java Swing, JDBC, and SQL to manage 
 
 
 ##🚀 Features
+
 Secure Login System with Admin/Teacher roles and validation
 
 Admin Dashboard with access to:
@@ -27,9 +28,9 @@ Robust input validation and data consistency checks
 Clean, modular code following separation of concerns
 
 
+
 ##🗂️ Project Structure
-php
-Copy code
+
 School-Management-System/
 
 │
