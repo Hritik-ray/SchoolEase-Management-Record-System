@@ -71,7 +71,7 @@ NetBeans or any Java IDE (for development)
 ## 💻 How to Run
 ### Clone the repository
 
-git clone https://github.com/your-username/School-Management-System.git
+git clone https://github.com/Hritik-ray/SchoolEase-Management-Record-System
 
 
 ### Navigate to the project directory
